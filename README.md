@@ -1,7 +1,9 @@
 # pyspark-ml-mongodb-segmentation
+
 This project demonstrates how to implement customer segmentation using PySpark MLlib and MongoDB. It focuses on clustering customers into distinct groups based on their attributes, such as age, gender, spending score, etc., using the K-Means clustering algorithm.
 
 ## 📌 Features:
+
     -   MongoDB setup using Docker and docker-compose
     -   JDBC connection for PySpark
     -   Customer Data load from Kaggle site
@@ -11,14 +13,16 @@ This project demonstrates how to implement customer segmentation using PySpark M
     -   Steps to install dependencies and configure the setup
 
 ## 🛠️ Tech Stack
-    - **ETL Tools**: PySpark
-    - **Database**: MongoDB
-    - **Language**: Python
-    - **Container**: Docker
+
+    -   **ETL Tools** : PySpark
+    -   **Database** : MongoDB
+    -   **Language** : Python
+    -   **Container** : Docker
 
 ## Prerequisites
 
 Ensure you have the following installed on your system:
+
     -   Docker
     -   Python (Recommended: Python 3.13.1)
     -   Jupyter Notebook (Optional, if running manually)
@@ -40,6 +44,7 @@ After starting Docker engine,
     docker-compose up --build -d
 ```
 This will,
+
     -   Start MongoDB on port 27017
     -   Start Mongo Express on port 8081
 
