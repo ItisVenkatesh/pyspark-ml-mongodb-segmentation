@@ -4,29 +4,29 @@ This project demonstrates how to implement customer segmentation using PySpark M
 
 ## 📌 Features:
 
-    -   MongoDB setup using Docker and docker-compose
-    -   JDBC connection for PySpark
-    -   Customer Data load from Kaggle site
-    -   Data insertion and retrieval using PySpark
-    -   Data transformation using PySpark
-    -   K-Means Clustering ML Algorithm using PySpark ML Library
-    -   Steps to install dependencies and configure the setup
+    -   MongoDB setup using Docker and docker-compose.
+    -   JDBC connection for PySpark.
+    -   Customer Data load from Kaggle site.
+    -   Data insertion and retrieval using PySpark.
+    -   Data transformation using PySpark.
+    -   K-Means Clustering ML Algorithm using PySpark ML Library.
+    -   Steps to install dependencies and configure the setup.
 
 ## 🛠️ Tech Stack
 
-    -   **ETL Tools** : PySpark
-    -   **Database** : MongoDB
-    -   **Language** : Python
-    -   **Container** : Docker
+    -   **ETL Tools** : PySpark.
+    -   **Database** : MongoDB.
+    -   **Language** : Python.
+    -   **Container** : Docker.
 
 ## Prerequisites
 
 Ensure you have the following installed on your system:
 
-    -   Docker
-    -   Python (Recommended: Python 3.13.1)
-    -   Jupyter Notebook (Optional, if running manually)
-    -   PySpark
+    -   Docker.
+    -   Python (Recommended: Python 3.13.1).
+    -   Jupyter Notebook (Optional, if running manually).
+    -   PySpark.
 
 ## 🚀 Setup Instructions
 
